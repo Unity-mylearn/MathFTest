@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{7BACDFF7-FD11-9E4A-4F09-1A5990B1D09F}") = "MathFTest", "Assembly-CSharp.csproj", "{D4772237-D062-8B1B-384E-43659057BA82}"
+EndProject
+Project("{7BACDFF7-FD11-9E4A-4F09-1A5990B1D09F}") = "MathFTest", "Assembly-CSharp-Editor.csproj", "{F54DA366-3EB2-CB67-9D20-10398EAA405D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4772237-D062-8B1B-384E-43659057BA82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4772237-D062-8B1B-384E-43659057BA82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4772237-D062-8B1B-384E-43659057BA82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4772237-D062-8B1B-384E-43659057BA82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F54DA366-3EB2-CB67-9D20-10398EAA405D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F54DA366-3EB2-CB67-9D20-10398EAA405D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F54DA366-3EB2-CB67-9D20-10398EAA405D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F54DA366-3EB2-CB67-9D20-10398EAA405D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
